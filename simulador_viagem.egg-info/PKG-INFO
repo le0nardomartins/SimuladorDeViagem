@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: simulador_viagem
+Version: 0.1
+License-File: LICENSE
+Requires-Dist: PySide6>=6.9.0
+Requires-Dist: requests>=2.31.0
+Dynamic: license-file
+Dynamic: requires-dist
